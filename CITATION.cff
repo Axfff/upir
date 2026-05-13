@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "UPIR: A benchmark family for unified-pool protein-ligand retrieval"
+message: "If you use UPIR, please cite the archived software release and the upstream datasets listed in DATA_LICENSES.md."
+type: software
+authors:
+  - name: "Jingyao ZHAO"
+repository-code: "https://github.com/Axfff/upir"
+license: MIT
+keywords:
+  - protein-ligand retrieval
+  - virtual screening
+  - benchmark
+  - cheminformatics
+  - candidate generation
+  - target proposal
+version: "v0.1.0"
+date-released: "2026-05-13"

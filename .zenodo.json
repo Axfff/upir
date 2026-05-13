@@ -1,0 +1,28 @@
+{
+  "title": "UPIR: A benchmark family for unified-pool protein-ligand retrieval",
+  "upload_type": "software",
+  "description": "UPIR is a reconstruction-first benchmark package for unified-pool bidirectional protein-ligand retrieval, including strict semantic calibration, open forward candidate generation, open reverse target proposal, fixed protocols, result summaries, and evaluation scripts.",
+  "creators": [
+    {
+      "name": "Jingyao ZHAO"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "protein-ligand retrieval",
+    "virtual screening",
+    "benchmark",
+    "cheminformatics",
+    "candidate generation",
+    "target proposal"
+  ],
+  "access_right": "open",
+  "version": "v0.1.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Axfff/upir",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+# Local environments and build caches
+venv/
+.conda_tex/
+.codex
+.agents/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local raw/upstream data and derived benchmark artifacts.
+# UPIR is released reconstruction-first; users rebuild these from upstream sources.
+data/
+
+# Large experiment outputs and encoding caches are not part of the source release.
+results/
+logs/
+
+# LaTeX intermediates
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.log
+paper/*.out
+paper/*.synctex.gz
+paper/*.toc
+paper/*.fls
+paper/*.fdb_latexmk
+
+# OS/editor files
+.DS_Store
+*.swp
+*~
