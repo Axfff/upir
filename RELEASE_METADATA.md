@@ -1,6 +1,6 @@
 # UPIR Release Metadata
 
-https://doi.org/10.5281/zenodo.20155018
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20155018.svg)](https://doi.org/10.5281/zenodo.20155018)
 **Snapshot date**: 2026-05-13
 
 ## Repository
